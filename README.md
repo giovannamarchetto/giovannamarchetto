@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @giovannamarchetto
-
+*Hello, I'm Giovanna.* 
